@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bomberosr1/static/css/main.961cf727.css",
+    "main.js": "/bomberosr1/static/js/main.fa27c650.js",
+    "static/js/787.4f874548.chunk.js": "/bomberosr1/static/js/787.4f874548.chunk.js",
+    "static/media/logo.png": "/bomberosr1/static/media/logo.d2492ba665866c6c2124.png",
+    "static/media/info-destacada.jpg": "/bomberosr1/static/media/info-destacada.651b3f2adf7e530cef5f.jpg",
+    "static/media/emergencia2.jpg": "/bomberosr1/static/media/emergencia2.369c294ba209c179f80f.jpg",
+    "static/media/acceso1.svg": "/bomberosr1/static/media/acceso1.1d5a1c352a5e5c587ede72542044897d.svg",
+    "static/media/logo-footer.png": "/bomberosr1/static/media/logo-footer.2a5badf8a1b159e1fa87.png",
+    "static/media/acceso2.png": "/bomberosr1/static/media/acceso2.5510fd140c4344dd9172.png",
+    "static/media/loading.gif": "/bomberosr1/static/media/loading.ce8c081bd603c7a8570e.gif",
+    "static/media/acceso3.svg": "/bomberosr1/static/media/acceso3.3a3c89bde8a3bb37924b54c80da0e854.svg",
+    "static/media/acceso4.svg": "/bomberosr1/static/media/acceso4.a2c1e26d47c203ffcba5dba43ebb190e.svg",
+    "index.html": "/bomberosr1/index.html",
+    "main.961cf727.css.map": "/bomberosr1/static/css/main.961cf727.css.map",
+    "main.fa27c650.js.map": "/bomberosr1/static/js/main.fa27c650.js.map",
+    "787.4f874548.chunk.js.map": "/bomberosr1/static/js/787.4f874548.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.961cf727.css",
+    "static/js/main.fa27c650.js"
+  ]
+}
